@@ -1,0 +1,31 @@
+.about{
+    background-color: bisque;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 40px ;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+    margin: 10px;
+}
+
+.about:hover{
+    box-shadow: 10px 10px 25px rgb(27, 207, 72);
+}
+
+.p{
+    display: inline-block;
+    font-size: 15px;
+    background-color: rgb(9, 223, 62);
+    border: 5px solid black;
+    border-radius: 40px;
+    border-width: thin;
+    height: 30px;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+}
+
+.p:hover{
+    background-color: rgb(10, 97, 39);
+}

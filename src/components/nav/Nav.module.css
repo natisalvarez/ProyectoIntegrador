@@ -1,0 +1,25 @@
+.nav{
+    background-color: blanchedalmond;
+    padding: 10px;
+    border-color: rgb(#7A306C);
+    border-style: solid;
+    border-width: thin;
+}
+
+.sea{
+    background-color: #7A306C;
+    display: inline-block;
+    padding: 10px;
+    border-radius: 40px ;
+    border-color: black;
+    border-style: solid;
+    border-width: thin;
+    margin: 10px;
+    margin-left: 70%;
+}
+.bu{
+    background-color: rgb(#7A306C);
+    padding: 10px;
+
+    border-radius: 40px ;
+}
